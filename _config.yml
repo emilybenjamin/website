@@ -5,5 +5,7 @@ relative_links:
   collections: true
 include:
   - index.md
-
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
+title: emilybenjamin.com
+description: emilybenjamin.com
+show_downloads: false
